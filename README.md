@@ -1,1 +1,0 @@
-# csc_logic_and_design
