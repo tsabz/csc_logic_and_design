@@ -1,0 +1,15 @@
+Upcoming Jobs
+
+Customer_1 {
+    name : "Katrina Wave"
+    address : "3101 olon st"
+    date of job : 09/14/2021
+    price of job : "$ 600,000"
+}
+
+Customer_2 {
+    name : "Kim Chang"
+    address : "384 Mulbery St"
+    date of job : 12/08/2021
+    price of job : "$ 2,300.25"
+}

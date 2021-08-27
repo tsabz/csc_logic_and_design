@@ -1,0 +1,38 @@
+Jobs Completed
+
+Customer_1 {
+    name : "Marcy Gray"
+    address : "333 oaxaca st."
+    date of job : 04/12/2021
+    price of job : "$ 341.80"
+}
+
+Customer_2 {
+    name : "Patrick Dempsey"
+    address : "4190 Ocean Ave."
+    date of job : 08/23/2020
+    price of job : "$ 200,531.90"
+}
+
+Customer_3 {
+    name : "Kim Chang"
+    address : "384 Mulbery St"
+    date of job : 10/08/2020
+    price of job : "$ 600,270.32"
+}
+
+Upcoming Jobs
+
+Customer_1 {
+    name : "Katrina Wave"
+    address : "3101 olon st"
+    date of job : 09/14/2021
+    price of job : "$ 600,000"
+}
+
+Customer_2 {
+    name : "Kim Chang"
+    address : "384 Mulbery St"
+    date of job : 12/08/2021
+    price of job : "$ 2,300.25"
+}
